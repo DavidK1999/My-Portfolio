@@ -1,38 +1,118 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+header {
+  background-color: #142840;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+
+ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.jumbotron {
+  color: white;
+  background-color: #4386D9;
+  margin-bottom: 5%;
+}
+
+.text-container {
+  margin: 5% auto;
+  width: 60%;
+}
+
+#about {
+  width: 20%;
+  background-color: #566E8C;
+}
+
+
+
+.grid {
+  margin: 0 auto;
+  width: 80%;
+  margin-bottom: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 21rem;
+  height: 26rem;
+  margin: 2%;
+}
+
+.card-body .btn {
+  position: absolute;
+  bottom: 10px;
+}
+.contact {
+  height: 500px;
+  display: flex;
+  align-items: center;
+}
+
+.icon-holder {
+  width: 8rem;
+  height: 8rem;
+  background-color: #566E8C;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+}
+
+svg {
+  background-color: #566E8C;
+}
+
+.media-menu {
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  justify-content: space-around;
+
+}
+
+@media(max-width: 500px) {
+  header {
+    padding: 5%;
   }
-  to {
-    transform: rotate(360deg);
+
+  ul {
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  li {
+    background-color:#364659;
+    text-align: center;
+    width: 4rem;
+    margin: 1%;
+    padding: 1%;
+    border-radius: 5px;
+  }
+
+  .jumbotron {
+    text-align: center;
+  }
+
+  .contact {
+    height: 800px;
+  }
+
+  .media-menu {
+    height: 100%;
+    align-content: center;
+    justify-content: space-around;
+    flex-direction: column;
   }
 }
+
