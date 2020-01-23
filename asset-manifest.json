@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "https//davidk1999.github.io/my-portfolio/static/css/main.19611e6c.chunk.css",
-    "main.js": "https//davidk1999.github.io/my-portfolio/static/js/main.18867f4a.chunk.js",
-    "main.js.map": "https//davidk1999.github.io/my-portfolio/static/js/main.18867f4a.chunk.js.map",
-    "runtime-main.js": "https//davidk1999.github.io/my-portfolio/static/js/runtime-main.9a9ca840.js",
-    "runtime-main.js.map": "https//davidk1999.github.io/my-portfolio/static/js/runtime-main.9a9ca840.js.map",
-    "static/js/2.9118220e.chunk.js": "https//davidk1999.github.io/my-portfolio/static/js/2.9118220e.chunk.js",
-    "static/js/2.9118220e.chunk.js.map": "https//davidk1999.github.io/my-portfolio/static/js/2.9118220e.chunk.js.map",
-    "index.html": "https//davidk1999.github.io/my-portfolio/index.html",
-    "precache-manifest.f9d0609016f4847d436d79ea4d2f8f62.js": "https//davidk1999.github.io/my-portfolio/precache-manifest.f9d0609016f4847d436d79ea4d2f8f62.js",
-    "service-worker.js": "https//davidk1999.github.io/my-portfolio/service-worker.js",
-    "static/css/main.19611e6c.chunk.css.map": "https//davidk1999.github.io/my-portfolio/static/css/main.19611e6c.chunk.css.map",
-    "static/js/2.9118220e.chunk.js.LICENSE": "https//davidk1999.github.io/my-portfolio/static/js/2.9118220e.chunk.js.LICENSE",
-    "static/media/Block-Bolt.png": "https//davidk1999.github.io/my-portfolio/static/media/Block-Bolt.a27a53d0.png",
-    "static/media/Todoit.png": "https//davidk1999.github.io/my-portfolio/static/media/Todoit.884a71ed.png",
-    "static/media/mypc.jpg": "https//davidk1999.github.io/my-portfolio/static/media/mypc.389757d8.jpg",
-    "static/media/profile.jpg": "https//davidk1999.github.io/my-portfolio/static/media/profile.27f77680.jpg",
-    "static/media/thisbetterwork.png": "https//davidk1999.github.io/my-portfolio/static/media/thisbetterwork.b0f8163e.png",
-    "static/media/violin.jpg": "https//davidk1999.github.io/my-portfolio/static/media/violin.0e37f86d.jpg"
+    "main.css": "/my-portfolio/static/css/main.19611e6c.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.28ed1345.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.28ed1345.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.40ca06be.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.40ca06be.js.map",
+    "static/js/2.9118220e.chunk.js": "/my-portfolio/static/js/2.9118220e.chunk.js",
+    "static/js/2.9118220e.chunk.js.map": "/my-portfolio/static/js/2.9118220e.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "precache-manifest.411df240390787f2c738a9ec1d115c46.js": "/my-portfolio/precache-manifest.411df240390787f2c738a9ec1d115c46.js",
+    "service-worker.js": "/my-portfolio/service-worker.js",
+    "static/css/main.19611e6c.chunk.css.map": "/my-portfolio/static/css/main.19611e6c.chunk.css.map",
+    "static/js/2.9118220e.chunk.js.LICENSE": "/my-portfolio/static/js/2.9118220e.chunk.js.LICENSE",
+    "static/media/Block-Bolt.png": "/my-portfolio/static/media/Block-Bolt.a27a53d0.png",
+    "static/media/Todoit.png": "/my-portfolio/static/media/Todoit.884a71ed.png",
+    "static/media/mypc.jpg": "/my-portfolio/static/media/mypc.389757d8.jpg",
+    "static/media/profile.jpg": "/my-portfolio/static/media/profile.27f77680.jpg",
+    "static/media/thisbetterwork.png": "/my-portfolio/static/media/thisbetterwork.b0f8163e.png",
+    "static/media/violin.jpg": "/my-portfolio/static/media/violin.0e37f86d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a9ca840.js",
+    "static/js/runtime-main.40ca06be.js",
     "static/js/2.9118220e.chunk.js",
     "static/css/main.19611e6c.chunk.css",
-    "static/js/main.18867f4a.chunk.js"
+    "static/js/main.28ed1345.chunk.js"
   ]
 }
