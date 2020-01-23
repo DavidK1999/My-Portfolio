@@ -128,7 +128,7 @@ svg {
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
-  width: 40%;
+  max-width: 50%;
   height: 100%;
   justify-content: space-between;
   align-items: center;
@@ -157,8 +157,8 @@ svg {
   li {
     background-color:#364659;
     text-align: center;
-    width: 4rem;
-    margin: 1%;
+    width: 6rem;
+    margin: 5% 0;
     padding: 1%;
     border-radius: 5px;
   }

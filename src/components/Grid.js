@@ -1,8 +1,8 @@
 import React from 'react'
 import Section from './Section';
-import Todoit from './Todoit.png';
-import Block from './Block-Bolt.png';
-import UnderConstruction from './thisbetterwork.png'
+import Todoit from '../components/images/Todoit.png';
+import Block from '../components/images/Block-Bolt.png';
+import UnderConstruction from '../components/images/thisbetterwork.png'
 
 const Grid = () => {
     return (
