@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.b1da8818.chunk.css",
+    "main.css": "/static/css/main.3a36914e.chunk.css",
     "main.js": "/static/js/main.0dc1e5a0.chunk.js",
     "main.js.map": "/static/js/main.0dc1e5a0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c2b20a0b.js",
@@ -8,9 +8,9 @@
     "static/js/2.f386b5fe.chunk.js": "/static/js/2.f386b5fe.chunk.js",
     "static/js/2.f386b5fe.chunk.js.map": "/static/js/2.f386b5fe.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2afdfa25492690989689c1926e6a724b.js": "/precache-manifest.2afdfa25492690989689c1926e6a724b.js",
+    "precache-manifest.e7f362e4ccb3fe8249957940a9502d33.js": "/precache-manifest.e7f362e4ccb3fe8249957940a9502d33.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.b1da8818.chunk.css.map": "/static/css/main.b1da8818.chunk.css.map",
+    "static/css/main.3a36914e.chunk.css.map": "/static/css/main.3a36914e.chunk.css.map",
     "static/js/2.f386b5fe.chunk.js.LICENSE": "/static/js/2.f386b5fe.chunk.js.LICENSE",
     "static/media/Block-Bolt.png": "/static/media/Block-Bolt.a27a53d0.png",
     "static/media/Todoit.png": "/static/media/Todoit.884a71ed.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.c2b20a0b.js",
     "static/js/2.f386b5fe.chunk.js",
-    "static/css/main.b1da8818.chunk.css",
+    "static/css/main.3a36914e.chunk.css",
     "static/js/main.0dc1e5a0.chunk.js"
   ]
 }
