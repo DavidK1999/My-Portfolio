@@ -170,6 +170,15 @@ svg {
   .contact {
     height: 800px;
   }
+  
+  .card {
+    margin: 5% 0;
+  }
+
+  .icon-holder {
+    width: 16rem;
+    height: 8rem;
+  }
 
   .media-menu {
     height: 100%;
