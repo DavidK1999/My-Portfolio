@@ -2,12 +2,12 @@ import React from 'react'
 
 const Section = (props) => {
     return (
-        <div id={props.id} class="card">
-            <img src={props.img} class="card-img-top" alt="..."/>
-            <div class="card-body">
-            <h5 class="card-title">{props.title}</h5>
-            <p class="card-text">{props.text}</p>
-            <a href={props.link} target="_blank" rel="noopener noreferrer" class="btn btn-primary">Go somewhere</a>
+        <div id={props.id} className="card">
+            <img src={props.img} className="card-img-top" alt="..."/>
+            <div className="card-body">
+            <h5 className="card-title">{props.title}</h5>
+            <p className="card-text">{props.text}</p>
+            <a href={props.link} target="_blank" rel="noopener noreferrer" className="btn btn-primary">{props.pending || "Check it Out"}</a>
             </div>
         </div>
     );

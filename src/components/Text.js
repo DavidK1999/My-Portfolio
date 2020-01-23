@@ -5,7 +5,11 @@ const Text = (props) => {
         <div className="text-container">
             <h3>{props.title}</h3>
             <p>{props.body}</p>
+            <div>
+                {props.img}
+            </div>
         </div>
+
     );
 
 }

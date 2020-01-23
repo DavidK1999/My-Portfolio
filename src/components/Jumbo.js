@@ -2,10 +2,10 @@ import React from 'react'
 
 const Jumbo = (props) => {
     return (
-        <div id={props.id} class="jumbotron jumbotron-fluid">
-            <div class="container">
-                <h1 class="display-4">{props.title}</h1>
-                <p class="lead">{props.text}</p>
+        <div id={props.id} className="jumbotron jumbotron-fluid">
+            <div className="container">
+                <h1 className="display-4">{props.title}</h1>
+                <p className="lead">{props.text}</p>
             </div>
         </div>
     );

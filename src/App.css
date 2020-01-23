@@ -1,6 +1,11 @@
 header {
   background-color: #142840;
   color: white;
+  font-size: 1.1rem;
+}
+
+h1 {
+  font-size: 4rem;
 }
 
 
@@ -28,8 +33,6 @@ ul {
   background-color: #566E8C;
 }
 
-
-
 .grid {
   margin: 0 auto;
   width: 80%;
@@ -50,10 +53,19 @@ ul {
   position: absolute;
   bottom: 10px;
 }
+
+.card-img-top {
+  height: 200px;
+}
+
 .contact {
   height: 500px;
   display: flex;
   align-items: center;
+}
+
+.img-thumbnail {
+  width: 200px;
 }
 
 .icon-holder {
@@ -83,6 +95,10 @@ svg {
 @media(max-width: 500px) {
   header {
     padding: 5%;
+  }
+
+  h1 {
+    font-size: 2.3rem;
   }
 
   ul {
