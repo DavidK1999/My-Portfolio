@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/my-portfiolio/static/css/main.19611e6c.chunk.css",
-    "main.js": "/my-portfiolio/static/js/main.8d6758de.chunk.js",
-    "main.js.map": "/my-portfiolio/static/js/main.8d6758de.chunk.js.map",
-    "runtime-main.js": "/my-portfiolio/static/js/runtime-main.280c98c8.js",
-    "runtime-main.js.map": "/my-portfiolio/static/js/runtime-main.280c98c8.js.map",
-    "static/js/2.9118220e.chunk.js": "/my-portfiolio/static/js/2.9118220e.chunk.js",
-    "static/js/2.9118220e.chunk.js.map": "/my-portfiolio/static/js/2.9118220e.chunk.js.map",
-    "index.html": "/my-portfiolio/index.html",
-    "precache-manifest.f96330935141f2fd4d9920fa1681c3ee.js": "/my-portfiolio/precache-manifest.f96330935141f2fd4d9920fa1681c3ee.js",
-    "service-worker.js": "/my-portfiolio/service-worker.js",
-    "static/css/main.19611e6c.chunk.css.map": "/my-portfiolio/static/css/main.19611e6c.chunk.css.map",
-    "static/js/2.9118220e.chunk.js.LICENSE": "/my-portfiolio/static/js/2.9118220e.chunk.js.LICENSE",
-    "static/media/Block-Bolt.png": "/my-portfiolio/static/media/Block-Bolt.a27a53d0.png",
-    "static/media/Todoit.png": "/my-portfiolio/static/media/Todoit.884a71ed.png",
-    "static/media/mypc.jpg": "/my-portfiolio/static/media/mypc.389757d8.jpg",
-    "static/media/profile.jpg": "/my-portfiolio/static/media/profile.27f77680.jpg",
-    "static/media/thisbetterwork.png": "/my-portfiolio/static/media/thisbetterwork.b0f8163e.png",
-    "static/media/violin.jpg": "/my-portfiolio/static/media/violin.0e37f86d.jpg"
+    "main.css": "./static/css/main.19611e6c.chunk.css",
+    "main.js": "./static/js/main.eb105d2e.chunk.js",
+    "main.js.map": "./static/js/main.eb105d2e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.692de215.js",
+    "runtime-main.js.map": "./static/js/runtime-main.692de215.js.map",
+    "static/js/2.9118220e.chunk.js": "./static/js/2.9118220e.chunk.js",
+    "static/js/2.9118220e.chunk.js.map": "./static/js/2.9118220e.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.0c9db56d961e602c91145a31b0e93dd8.js": "./precache-manifest.0c9db56d961e602c91145a31b0e93dd8.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.19611e6c.chunk.css.map": "./static/css/main.19611e6c.chunk.css.map",
+    "static/js/2.9118220e.chunk.js.LICENSE": "./static/js/2.9118220e.chunk.js.LICENSE",
+    "static/media/Block-Bolt.png": "./static/media/Block-Bolt.a27a53d0.png",
+    "static/media/Todoit.png": "./static/media/Todoit.884a71ed.png",
+    "static/media/mypc.jpg": "./static/media/mypc.389757d8.jpg",
+    "static/media/profile.jpg": "./static/media/profile.27f77680.jpg",
+    "static/media/thisbetterwork.png": "./static/media/thisbetterwork.b0f8163e.png",
+    "static/media/violin.jpg": "./static/media/violin.0e37f86d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.280c98c8.js",
+    "static/js/runtime-main.692de215.js",
     "static/js/2.9118220e.chunk.js",
     "static/css/main.19611e6c.chunk.css",
-    "static/js/main.8d6758de.chunk.js"
+    "static/js/main.eb105d2e.chunk.js"
   ]
 }
